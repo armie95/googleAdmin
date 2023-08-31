@@ -1,0 +1,24 @@
+{
+  "name": "Googledmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bookshelf": "^1.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^11.10.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
